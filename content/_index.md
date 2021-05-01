@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Consórcios.bhz.br | Contrate um
 sections:
   - type: hero_section
     title: Chegou a hora de você investir em um imóvel. Conte conosco.
