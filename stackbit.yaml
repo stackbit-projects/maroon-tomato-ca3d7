@@ -1648,7 +1648,7 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
-      - name: ''
+      - name: Header_Text
         type: string
   stackbit_page_meta:
     type: object
