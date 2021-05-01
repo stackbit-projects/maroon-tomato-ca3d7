@@ -1650,6 +1650,7 @@ models:
         description: Add rel="nofollow" attribute to the link
       - name: Header_Text
         type: string
+        required: true
   stackbit_page_meta:
     type: object
     label: Page meta data
