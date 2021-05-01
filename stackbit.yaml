@@ -1649,7 +1649,7 @@ models:
         default: false
         description: Add rel="nofollow" attribute to the link
       - name: Header_Text
-        type: string
+        type: url
         required: true
   stackbit_page_meta:
     type: object
