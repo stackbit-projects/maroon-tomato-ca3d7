@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Chegou a hora de você investir em um imóvel
+    title: Chegou a hora de você investir em um imóvel. Conte conosco.
     actions:
       - label: Contact Me
         url: /contact
