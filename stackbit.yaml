@@ -1648,6 +1648,8 @@ models:
         label: No follow
         default: false
         description: Add rel="nofollow" attribute to the link
+      - name: ''
+        type: string
   stackbit_page_meta:
     type: object
     label: Page meta data
